@@ -8,6 +8,6 @@ Steps involved -
 </ol>
 <br>
 To run the script - <br>
-$ python scan.py --image images/receipt.jpeg
+$ python scan.py --image Images/receipt.jpeg
 <br>
 An example of a test image post scanning has been added to the Images folder.
