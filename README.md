@@ -1,4 +1,4 @@
-# Mobile-Document-Scanner
+# Document-Scanner
 Building a document scanner using Python, OpenCV and Computer Vision<br>
 Steps involved - 
 <ol>
