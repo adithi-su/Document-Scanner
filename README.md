@@ -9,3 +9,5 @@ Steps involved -
 <br>
 To run the script - <br>
 $ python scan.py --image images/receipt.jpeg
+<br>
+An example of a test image post scanning has been added to the Images folder.
