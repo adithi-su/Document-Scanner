@@ -1,5 +1,5 @@
 # Mobile-Document-Scanner
-Building a document scanner using Python, OpenCV and Computer Vision
+Building a document scanner using Python, OpenCV and Computer Vision<br>
 Steps involved - 
 <ol>
   <li>Detect Edges</li>
