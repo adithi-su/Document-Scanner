@@ -8,4 +8,4 @@ Steps involved -
 </ol>
 <br>
 To run the script - <br>
-$ python scan.py --image <image location>
+$ python scan.py --image images/receipt.jpeg
